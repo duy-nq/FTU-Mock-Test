@@ -1,4 +1,4 @@
-Shelf ID,Item ID,Name,Origin,Location,Weight (g),Price,NSX,HSD,Marketing strategy,Discount ,Rate
+Shelf ID,Item ID,Name,Origin,Location,Weight (g),Price,NSX,HSD,Marketing strategy,Discount,Rate
 0,0,Bánh Oreo,Vietnam,Cao,120,"17,500 ₫",2023-11-14,2024-10-17,FALSE,10,4
 0,1,Bánh Chocopie,Vietnam,Cao,396,"48,000 ₫",2023-10-07,2024-09-16,FALSE,0,3
 0,2,Kẹo cao su Cool Air Fresh,Vietnam,Trung bình,40,"40,000 ₫",2024-06-02,2026-06-02,FALSE,0,3
